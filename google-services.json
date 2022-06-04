@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "926392109021",
+    "project_id": "digimart-83083",
+    "storage_bucket": "digimart-83083.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926392109021:android:816fba8a9501d0a2cc9834",
+        "android_client_info": {
+          "package_name": "com.DIGIMART.shopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926392109021-434mcrd3t9habim8dniq5lqr4uf56iqi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnDNsaS6Pg4HMrj4-K5gqf6OFoy9X8oDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926392109021-434mcrd3t9habim8dniq5lqr4uf56iqi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
